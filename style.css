@@ -1,0 +1,41 @@
+h1{
+    background-color: blue;
+    font-size: 35px;
+    width: 500px;
+    }
+
+h2{
+    background-color: green;
+    font-size:  25px;
+    width: 500px;
+}
+
+h3{
+    background-color: yellow;
+    font-size: 25px;
+    width: 500px;
+}
+
+ul{
+    width: 600px;
+}
+
+ul.colored{
+    background-color: skyblue;
+    outline: 1px solid black;
+}
+
+ul.colored li{
+    background-color: burlywood;
+    outline: 1px solid black;
+}
+    
+ul.colored li h1{
+    background-color: coral;
+    outline: 1px solid black;
+}
+
+ul.colored li p{
+    background-color: pink;
+    outline: 1px solid black;
+}
